@@ -1,0 +1,27 @@
+
+.navbar {
+    background-color: #3f4652; 
+    padding: 2rem;
+    color: white; 
+  }
+  
+  .brand {
+    font-size: 1.5rem; 
+    font-weight: bold; 
+  }
+  
+  .navLinks {
+    display: flex; 
+    gap: 1.5rem; 
+  }
+  
+  .navLinks a {
+    color: white; 
+    text-decoration: none;
+    transition: color 0.3s ease; 
+  }
+  
+  .navLinks a:hover {
+    color: #f97316; 
+  }
+  
